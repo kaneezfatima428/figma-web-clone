@@ -1,0 +1,138 @@
+.registerBtn{
+    background-color: #4CAF4F;
+    border: 1px solid #4CAF4F;
+    height: 49.49px;
+    width: 148.25px;
+    color: #fff;
+    border-radius: 2.78px;
+}
+.registerBtn:hover{
+    background-color: #4CAF4F !important;
+    color: #fff;
+}
+.navbar-nav{
+    gap: 20.71px;
+}
+.headerColor{
+    background-color: #F5F7FA;
+}
+.colorDark{
+    color: #4D4D4D;
+}
+.lesson{
+    font-size: 44.55px;
+}
+.lesson div{
+    color: #4CAF4F;
+}
+.heroRow{
+    height: 416.95px;
+}
+.short-card{
+    display: inline-block;
+} 
+.footercolor{
+    background-color:#263238 ;
+    color: #fff;
+}
+.footer-section {
+  background: #263238;
+  color: #fff;
+  padding: 60px 0;
+}
+
+.footer-logo {
+  font-weight: 700;
+  font-size: 26px;
+  margin-bottom: 15px;
+}
+
+.footer-copy {
+  color: #c5c5c5;
+  font-size: 14px;
+}
+
+.footer-title {
+  font-weight: 600;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-links li {
+  margin-bottom: 8px;
+}
+
+.footer-links a {
+  text-decoration: none;
+  color: #c5c5c5;
+  font-size: 14px;
+}
+
+.footer-links a:hover {
+  color: #ffffff;
+}
+
+.social-icons i {
+  font-size: 18px;
+  margin-right: 12px;
+  cursor: pointer;
+  color: #c5c5c5;
+}
+
+.social-icons i:hover {
+  color: #fff;
+}
+
+.subscribe-box {
+  display: flex;
+  background: #344047;
+  border-radius: 8px;
+  overflow: hidden;
+  max-width: 260px;
+  margin-top: 10px;
+}
+
+.subscribe-box input {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  background: transparent;
+  color: #fff;
+  outline: none;
+}
+.subscribe-box button {
+  background: none;
+  border: none;
+  padding: 10px 14px;
+  color: #fff;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 992px){
+    .navbar-nav li{
+        text-align: center;
+    }
+}
