@@ -77,16 +77,6 @@
   color: #ffffff;
 }
 
-.social-icons i {
-  font-size: 18px;
-  margin-right: 12px;
-  cursor: pointer;
-  color: #c5c5c5;
-}
-
-.social-icons i:hover {
-  color: #fff;
-}
 
 .subscribe-box {
   display: flex;
@@ -112,6 +102,10 @@
   color: #fff;
   cursor: pointer;
 }
+.lefthero{
+    display: flex;
+    flex-wrap: wrap;
+}
 
 
 
@@ -135,4 +129,5 @@
     .navbar-nav li{
         text-align: center;
     }
+    
 }
